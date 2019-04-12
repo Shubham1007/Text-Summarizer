@@ -9,6 +9,7 @@ Automatic summarization is the process of shortening a text document with softwa
 
 
 
+
 <center><h1>Methodology</h1></center>
 <h1>The TextRank Model</h1> <br/>
 Graph-based ranking algorithms are essentially a way of deciding the importance of a vertex within a graph, based on global information
