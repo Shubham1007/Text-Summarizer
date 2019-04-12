@@ -26,7 +26,6 @@ summary<br/>
 
 
 
-
 <h1>Sentence Extraction</h1>-<br/>
 The other TextRank application that we investigate consists of sentence extraction for automatic summarization. In a way, the problem
 of sentence extraction can be regarded as similar to keyword extraction, since both applications aim at identifying sequences that are more “representative” for the given text. In keyword extraction, the candidate text units consist of words or phrases, whereas in sentence extraction, we deal with entire sentences. TextRank turns out to be well suited for this type of applications, since it allows for a ranking over text units that is recursively computed based on information drawn from the entire text.
