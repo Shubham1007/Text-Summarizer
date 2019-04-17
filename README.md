@@ -1,16 +1,6 @@
 # Text-Summarizer
 Automatic summarization is the process of shortening a text document with software, in order to create a summary with the major points of the original document.The main idea of summarization is to find a subset of data which contains the "information" of the entire set.
 
-
-
-
-
-
-
-
-
-
-
 <center><h1>Methodology</h1></center>
 <h1>The TextRank Model</h1> <br/>
 Graph-based ranking algorithms are essentially a way of deciding the importance of a vertex within a graph, based on global information
