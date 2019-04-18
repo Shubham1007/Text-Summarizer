@@ -12,6 +12,7 @@ with the set of vertices V and set of edges E For a given vertex Vi.
 
 
 
+
 <br/>
 <h1>TextRank Algorithm</h1> <br/>
 TextRank is an extractive and unsupervised text summarization technique. TextRank algorithm that we will be following:
