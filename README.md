@@ -31,5 +31,9 @@ contexts. Instead, we are defining a different relation, which determines a conn
 
 </br>
 
+</br></br>
+
+# Output
+</br></br>
 <img src="dext1.JPG" alt="output">
 
